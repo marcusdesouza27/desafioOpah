@@ -1,5 +1,6 @@
 # desafioOpah
 
+>> Dados do Candidato:
 
 Desafio para a vaga Analista de Qualidade de Software. 
 
@@ -13,6 +14,17 @@ linkedIn: https://www.linkedin.com/in/marcusdesouza27/
 celular: 11 93236-1991
 
 Desenvolvido em Cypress com Cucumber
+
+
+
+>> Desafio funcional:
+
+Para solução deste teste, favor abrir o arquivo "customerRegistration.feature" que encontra-se na pasta Teste_Funcional.
+
+
+>> Desafio de Automação: 
+
+Para este desafio, siga as instruções que se seguem para verificação do teste.
 
 
 >> Setup:
