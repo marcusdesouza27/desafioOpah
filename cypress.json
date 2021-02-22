@@ -1,0 +1,9 @@
+{
+    "defaultCommandTimeout": 10000,
+    "baseUrl": "https://www.casasbahia.com.br:443",
+    "watchForFileChanges": false,
+    "experimentalSourceRewriting": true,
+    "viewportWidth": 1536,
+    "viewportHeight": 960,
+    "itemPesquisa": "Iphone 7"
+}
